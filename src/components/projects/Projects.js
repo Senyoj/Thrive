@@ -12,7 +12,7 @@ import { FaFigma , FaGithub} from "react-icons/fa";
 
 const Projects = () => {
   return (
-    <section id="Projects " className="md:pt-[80px] max-sm:pt-56  ">
+    <section id="Projects" className="md:pt-[80px] max-sm:pt-56  ">
       <div className="  flex flex-col justify-center items-center pt-16 text-center ">
         <Title title="Visit My Portfolio " desc="My Projects" />
       </div>

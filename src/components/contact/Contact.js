@@ -23,7 +23,7 @@ const ContactMe = () => {
   };
 
   return (
-    <div className="container flex flex-col justify-center items-center mt-8">
+    <div id='Contacts' className="container flex flex-col justify-center items-center mt-8">
         <Title title="Conact Details " desc="Contact Me" />
       <form onSubmit={handleSubmit} className="w-full max-w-lg">
         <div className="mb-4">

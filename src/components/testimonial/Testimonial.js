@@ -39,7 +39,7 @@ const TestimonialsList = () => {
   };
 
   return (
-    <div className="flex flex-col items-center text-center  pt-20">
+    <div id="Testimonial" className="flex flex-col items-center text-center  pt-20">
       <Title title="What Customers are saying " desc="About Me" />
 
       <div className="flex justify-between items-center w-[36rem] max-sm:w-[20rem]">
