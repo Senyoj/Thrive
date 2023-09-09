@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Thrive-Internship-portfolio/static/css/main.ca2c34c5.css",
+    "main.js": "/Thrive-Internship-portfolio/static/js/main.7fc1ecbd.js",
+    "static/media/sdafdsf.png": "/Thrive-Internship-portfolio/static/media/sdafdsf.cb9bf193d552bdb29347.png",
+    "static/media/ddsasd.png": "/Thrive-Internship-portfolio/static/media/ddsasd.b48e0027894f282e69fc.png",
+    "static/media/library.png": "/Thrive-Internship-portfolio/static/media/library.0c202c5db347776c5e7a.png",
+    "static/media/portfolio.png": "/Thrive-Internship-portfolio/static/media/portfolio.756917875e13a8bc2712.png",
+    "static/media/border.png": "/Thrive-Internship-portfolio/static/media/border.0c5e70ecd30f468b2b23.png",
+    "static/media/dappp.png": "/Thrive-Internship-portfolio/static/media/dappp.2c39e5678c44ff1ec539.png",
+    "static/media/delivery.png": "/Thrive-Internship-portfolio/static/media/delivery.7a5d857a0e861c4e3890.png",
+    "static/media/deliver.png": "/Thrive-Internship-portfolio/static/media/deliver.f9639e3f5331b493e5d2.png",
+    "static/media/fsd.png": "/Thrive-Internship-portfolio/static/media/fsd.bed87211d521f5e5c146.png",
+    "static/media/LIB.png": "/Thrive-Internship-portfolio/static/media/LIB.e076ff00771bda1d6900.png",
+    "static/media/saasfa.png": "/Thrive-Internship-portfolio/static/media/saasfa.78ba567b4509bb7e7cb7.png",
+    "index.html": "/Thrive-Internship-portfolio/index.html",
+    "main.ca2c34c5.css.map": "/Thrive-Internship-portfolio/static/css/main.ca2c34c5.css.map",
+    "main.7fc1ecbd.js.map": "/Thrive-Internship-portfolio/static/js/main.7fc1ecbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca2c34c5.css",
+    "static/js/main.7fc1ecbd.js"
+  ]
+}
