@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Thrive/static/css/main.ca2c34c5.css",
-    "main.js": "/Thrive/static/js/main.caf28d65.js",
-    "static/media/sdafdsf.png": "/Thrive/static/media/sdafdsf.cb9bf193d552bdb29347.png",
-    "static/media/ddsasd.png": "/Thrive/static/media/ddsasd.b48e0027894f282e69fc.png",
-    "static/media/library.png": "/Thrive/static/media/library.0c202c5db347776c5e7a.png",
-    "static/media/portfolio.png": "/Thrive/static/media/portfolio.756917875e13a8bc2712.png",
-    "static/media/border.png": "/Thrive/static/media/border.0c5e70ecd30f468b2b23.png",
-    "static/media/dappp.png": "/Thrive/static/media/dappp.2c39e5678c44ff1ec539.png",
-    "static/media/delivery.png": "/Thrive/static/media/delivery.7a5d857a0e861c4e3890.png",
-    "static/media/deliver.png": "/Thrive/static/media/deliver.f9639e3f5331b493e5d2.png",
-    "static/media/fsd.png": "/Thrive/static/media/fsd.bed87211d521f5e5c146.png",
-    "static/media/LIB.png": "/Thrive/static/media/LIB.e076ff00771bda1d6900.png",
-    "static/media/saasfa.png": "/Thrive/static/media/saasfa.78ba567b4509bb7e7cb7.png",
-    "index.html": "/Thrive/index.html",
-    "main.ca2c34c5.css.map": "/Thrive/static/css/main.ca2c34c5.css.map",
-    "main.caf28d65.js.map": "/Thrive/static/js/main.caf28d65.js.map"
+    "main.css": "/Thirve/static/css/main.3fc99f50.css",
+    "main.js": "/Thirve/static/js/main.32ec0302.js",
+    "static/media/sdafdsf.png": "/Thirve/static/media/sdafdsf.cb9bf193d552bdb29347.png",
+    "static/media/ddsasd.png": "/Thirve/static/media/ddsasd.b48e0027894f282e69fc.png",
+    "static/media/library.png": "/Thirve/static/media/library.0c202c5db347776c5e7a.png",
+    "static/media/portfolio.png": "/Thirve/static/media/portfolio.756917875e13a8bc2712.png",
+    "static/media/border.png": "/Thirve/static/media/border.0c5e70ecd30f468b2b23.png",
+    "static/media/dappp.png": "/Thirve/static/media/dappp.2c39e5678c44ff1ec539.png",
+    "static/media/delivery.png": "/Thirve/static/media/delivery.7a5d857a0e861c4e3890.png",
+    "static/media/deliver.png": "/Thirve/static/media/deliver.f9639e3f5331b493e5d2.png",
+    "static/media/fsd.png": "/Thirve/static/media/fsd.bed87211d521f5e5c146.png",
+    "static/media/LIB.png": "/Thirve/static/media/LIB.e076ff00771bda1d6900.png",
+    "static/media/saasfa.png": "/Thirve/static/media/saasfa.78ba567b4509bb7e7cb7.png",
+    "index.html": "/Thirve/index.html",
+    "main.3fc99f50.css.map": "/Thirve/static/css/main.3fc99f50.css.map",
+    "main.32ec0302.js.map": "/Thirve/static/js/main.32ec0302.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca2c34c5.css",
-    "static/js/main.caf28d65.js"
+    "static/css/main.3fc99f50.css",
+    "static/js/main.32ec0302.js"
   ]
 }
