@@ -34,9 +34,9 @@ const intro = () => {
         <div>
           <h2 className="text-base font-titleFont  mb-4 "> FIND ME ON</h2>
           <div  className="flex gap-4">
-              <span className="Icon"><FaGithub/></span>
-              <span className="Icon"><FaTwitter/></span>
-              <span className="Icon"><FaLinkedin/></span>
+              <span className="Icon"><a href="https://github.com/Senyoj" ><FaGithub/></a></span>
+              <span className="Icon"><a href="https://twitter.com/Joe_teslagh" ><FaTwitter/></a></span>
+              <span className="Icon"><a href="https://www.linkedin.com/in/ahadzi-joel-senyo-298b56212/" ><FaLinkedin/></a></span>
           </div>
         </div>
         <div>
