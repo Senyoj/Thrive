@@ -3,17 +3,17 @@ import { motion } from "framer-motion";
 
 const Skills = () => {
   return (
-    <section className="w-full flex lg:flex-row gap-20 md:flex-col ">
+    <section className="w-full flex lg:flex-row gap-20 md:flex-col  max-sm:flex flex-col ">
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1, transition: { duration: 2 } }}
       />
-      <div className="lg:w-1/2 md:w-full ">
-        <div className=" py-12 font-titleFont ">
+      <div className="lg:w-1/2 md:w-full  ">
+        <div className=" py-12 font-titleFont  ">
           <p className="text-sm text-designColor tracking-[4px]">Features</p>
           <h2 className="text-4xl font-bold ">Design Skills </h2>
         </div>
-        <div className="mt-14 w-full flex flex-col gap-6">
+        <div className="mt-14 w-full flex flex-col gap-6  ">
           <div className="overflow-x-hidden">
             <span className="flex justify-between">
               <p className="text-sm uppercase font-medium">Photoshop</p>
@@ -120,7 +120,7 @@ const Skills = () => {
           </div>
           <div className="overflow-x-hidden">
             <span className="flex justify-between">
-              <p className="text-sm uppercase font-medium"></p>
+              <p className="text-sm uppercase font-medium">App Development</p>
               <p>85%</p>
             </span>
             <span className="w-full h-2 bg-black  bg-opacity-40 inline-flex rounded-md mt-2">

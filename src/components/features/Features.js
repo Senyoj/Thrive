@@ -36,13 +36,13 @@ const Features = () => {
         />
         <Card
           title=" Videography"
-          desc=" With my skills, I am able troubleshoot all kinds of softwares , run test and check for  mulfunctions "
+          desc=" I Capture the very best moments of your life with best quality and keep memories that last forever "
           icon={<FaCamera />}
           arrow={<FaArrowRight />}
         />
         <Card
           title=" 3D Sculpting"
-          desc=" With my skills, I am able troubleshoot all kinds of sofftwares , run text and check mulfunstions "
+          desc=" I create 3D designs , scult stractures , create animations and soo much more!!! "
           icon={<FaBloggerB />}
           arrow={<FaArrowRight />}
         />
